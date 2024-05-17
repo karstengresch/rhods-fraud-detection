@@ -1,5 +1,5 @@
 ## Instructor Documentation
-This instructor documentation is for the **Machine Learning Workflows on RHODS** workshop. It is a workshop that uses simple fraud detection as an example: [RHODS fraud  detection](https://github.com/OpenShiftDemos/rhods-fraud-detection). Participants will be able to analyze credit card fruad data and model the data using RHODS and Jupyter notebooks. They will then create and package an application in OpenShift.
+This instructor documentation is for the **Machine Learning Workflows on RHODS** workshop. It is a workshop that uses simple fraud detection as an example: [RHODS fraud  detection](https://github.com/OpenShiftDemos/rhods-fraud-detection). Participants will be able to analyze credit card fraud data and model the data using RHODS and Jupyter notebooks. They will then create and package an application in OpenShift.
 
 ### Ordering the Demo
 When ordering the workshop on RHPDS, select any number of users >1. Keep **Configure Let's Encrypt Certificates** selected and leave **GuidGrabber Lab Key (optional)** blank.
